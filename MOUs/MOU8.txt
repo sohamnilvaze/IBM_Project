@@ -1,0 +1,86 @@
+**Memorandum of Understanding between Data Insight Laboratories and Oakdale University**
+
+This Memorandum of Understanding (MOU) is made on this 18th day of October, 2024 by and between:
+
+**Data Insight Laboratories** ("Data Insight Laboratories"), a leading provider of data analytics solutions, with its principal place of business at 123 Data Drive, Sunny Brook, IL 60121, USA; and,
+
+**Oakdale University** ("University"), a reputable institution of higher learning, with its principal place of business at 100 Oakdale Drive, Oakdale, IL 60181, USA;
+
+**WHEREAS** Data Insight Laboratories and University desire to collaborate on a data-sharing arrangement to promote research and education in the field of social sciences; and,
+
+**WHEREAS** the parties have entered into discussions and reached an understanding on the terms and conditions of this collaboration;
+
+**NOW, THEREFORE**, in consideration of the mutual covenants and promises contained herein, the parties agree as follows:
+
+**ARTICLE 1: Data Sharing Arrangement**
+
+Data Insight Laboratories and University agree to share anonymized data for research purposes. The data to be shared shall include:
+
+* Socio-economic data (e.g., demographic, socioeconomic status, education levels)
+* Employment data (e.g., industry, occupation, job satisfaction)
+* Market data (e.g., consumer behavior, market trends)
+
+The data shall be used for research purposes only and shall not be used for any commercial or commercial-related purposes.
+
+**ARTICLE 2: Data Security Measures and Confidentiality Agreements**
+
+The parties acknowledge that the data provided is valuable and sensitive in nature and shall therefore take appropriate measures to ensure its security. Specifically:
+
+* Data Insight Laboratories shall maintain a secure server environment for the storage of the data.
+* Researchers from University shall establish user accounts with Data Insight Laboratories to access the data and shall obtain permission from Data Insight Laboratories before sharing the data with third parties.
+* All parties agree to adhere to their respective data privacy policies and procedures.
+
+**ARTICLE 3: Duration of Data-Sharing Arrangement**
+
+The data-sharing arrangement shall commence on January 1, 2025 and shall continue for a period of three (3) years. Upon expiration, the parties shall consult to extend the data-sharing arrangement or terminate.
+
+**ARTICLE 4: Acknowledgement in Research Publications**
+
+University shall acknowledge Data Insight Laboratories as the source of the data in any publication, conference presentation, or research report that uses the data. Data Insight Laboratories shall provide a comprehensive dataset list with method appendix to facilitate future research work.
+
+**ARTICLE 5: Acknowledgment and Compliance**
+
+The parties acknowledge that they have read, understand and agree to comply with the terms and conditions set out in this Memorandum. Any termination applies from start of the contract period. Further it explains about commitment to confidentiality and notice for termination that all parties agreed upon. Further changes affecting rights change both in parties would necessitate the all from parties from agreed-upon amendments changes to be acknowledged clearly to all be agreed that such changes and each or or any of required.
+
+**ARTICLE 6: Intellectual Property**
+
+The parties acknowledge that they each maintain their rights over ownerships on all derived from that here which still their individual intellectual rights.
+
+**ARTICLE 7: Termination**
+
+Either party may terminate this Memorandum at any time by giving the other party written notice of termination, with the data shall then be all property of each to give out details during compliance of duration shown of needed commitment, release form from non-executing side by party required.
+
+**ACKNOWLEDGEMENT**
+
+By signing below, the parties acknowledge that they have read, understand and agree to comply with the terms and conditions of this Memorandum.
+
+**IN WITNESS WHEREOF**
+
+The parties have executed this MOU as of the date first above written.
+
+**DATA INSIGHT LABORATORIES**
+
+By: Ryan Peters, Chief Research Officer
+
+Title: Chief Research Officer
+
+Date: October 18, 2024
+
+**Signature:** _______________________________
+
+**Print Name:** Ryan A. Peters
+
+**Badge Number:** #4567
+
+**OAKDALE UNIVERSITY**
+
+By: James Wilson, Associate Professor
+
+Title: Associate Professor of Social Sciences
+
+Date: October 18, 2024
+
+**Signature:** _______________________________
+
+**Print Name:** J.T.J Wilson
+
