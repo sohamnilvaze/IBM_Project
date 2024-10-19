@@ -1,0 +1,148 @@
+Here is the contract with all sections:
+
+**NON-DISCLOSURE AND CONFIDENTIALITY AGREEMENT**
+
+This Non-Disclosure and Confidentiality Agreement (the "Agreement") is entered into on this 15th day of March, 2023 (the "Effective Date") by and between:
+
+**CONTRACTING PARTIES**
+
+1. **OCT 2024 COMMUNITY ENGAGEMENT INITIATIVE** ("University"), a public university based in Anytown, USA, and,
+2. **ECO GREEN INDUSTRIES** (a "Partner"), an eco-friendly consumer goods company based in New York, USA.
+
+**DEFINITIONS**
+
+1. For the purpose of this Agreement, "Confidential Information" means all data, information, and materials, including but not limited to:
+	* Proprietary branding strategies.
+	* Confidential information relating to the Partner's community engagement methods.
+	* Project-specific information, including but not limited to, financial data, performance records, and any future plans.
+	* Any other proprietary or confidential information that may be disclosed by the Partner to the University during this Agreement.
+2. Confidential Information shall not include any information that:
+	* Is or becomes publicly available through no fault of the University.
+	* Is already in the University's possession at the time of disclosure.
+	* Is obtained from a third party who has the right to disclose such information to the University.
+
+**CONFIDENTIAL INFORMATION**
+
+3. The University acknowledges that the Partner's Confidential Information is of significant value to the Partner and is not generally known or easily ascertainable by the public or by the University's employees, officers, directors, agents, or consultants.
+4. The University agrees not to use the Confidential Information for any purpose other than for the discussion and planning of the community outreach project.
+5. The University also agrees not to disclose the Confidential Information to any third party except as permitted under this Agreement.
+6. The University may disclose the Confidential Information to its employees, officers, directors, agents, or consultants as necessary to perform its obligations under this Agreement, provided that such individuals are informed of the confidential nature of the information and are bound by the terms of this Agreement.
+7. The University may also disclose the Confidential Information to the extent required by applicable law or by a court order, provided that the University gives the Partner prompt notice of any such disclosure.
+
+**OBLIGATIONS**
+
+8. **UNIVERSITY RESPONSIBILITY**
+
+9. The University agrees to keep Confidential Information confidential and not disclose it to any third party, except as permitted under this Agreement.
+10. The University also agrees to do everything necessary to maintain the secrecy and confidentiality of the Confidential Information.
+11. **PARTNER RESPONSIBILITY**
+
+12. The Partner agrees to use the Confidential Information only for the purposes specified in this Agreement.
+13. The Partner also agrees to take reasonable measures to protect the Confidential Information from unauthorized access, use, or disclosure.
+14. **CONFIDENTIAL PROTECTION**
+
+15. The Partner represents that it has taken reasonable measures to protect the Confidential Information from unauthorized access, use, or disclosure.
+16. The Partner agrees to maintain the confidentiality of the Confidential Information for a period of at least two (2) years after the completion of the community outreach project.
+
+**OBLIGATIONS OF PARTIES**
+
+17. **TERMINATION OF THIS AGREEMENT**
+
+18. This Agreement shall terminate on the completion of the community outreach project or within one (1) year from the Effective Date, whichever is earlier.
+
+19. **CANCELLATION OF THIS AGREEMENT**
+
+20. The University may immediately terminate this Agreement upon any breach by the Partner of a fundamental provision of this Agreement.
+
+21. **DEFAULT OF THIS AGREEMENT_
+
+22. In the event of termination of this Agreement, the University shall return all Confidential Information to the Partner.
+
+**INDEMNIFICATION AND LIMITATION OF LIABILITY**
+
+23. **INDEMNIFICATION_
+
+24. Each party agrees to indemnify the other party against any losses, damages, or expenses arising from its breach of this Agreement.
+
+25. **LIABILITY_
+
+26. In no event shall either party be liable for any consequential, indirect, incidental, or punitive damages arising from this Agreement.
+
+27. **PROTECTION OF RIGHTS_
+
+28. No party shall use this Agreement to claim any right, title, or interest in any intellectual property of the other party.
+
+**NON-DISCLOSURE OBLIGATIONS**
+
+29. **NON-DISCLOSURE_
+
+30. Both parties agree to maintain the confidentiality of the Confidential Information.
+31. **NOTICE_
+
+32. If either party becomes aware of a breach of this Agreement, it shall provide written notice to the other party within ten (10) days of such breach.
+
+**CONSEQUENCES OF BREACH**
+
+33. **CONSEQUENCES OF BREACH_
+
+34. If either party breaches this Agreement, the other party may seek injunctive relief, including specific performance.
+
+35. **DAMAGES_
+
+36. The non-breaching party may also seek damages for any losses, damages, or expenses arising from the breach.
+
+**ENTIRE AGREEMENT**
+
+37. **ENTIRE AGREEMENT**
+
+38. This Agreement constitutes the entire understanding between the parties and supersedes all prior negotiations, understandings, and agreements, whether written or oral.
+
+**AMENDMENTS**
+
+39. **AMENDMENTS_
+
+40. This Agreement may not be amended except in writing signed by both parties.
+
+**GOVERNING LAW**
+
+41. **GOVERNING LAW**
+
+42. This Agreement shall be governed by and construed in accordance with the laws of the state of USA.
+
+**ARBITRATION**
+
+43. **ARBITRATION**
+
+44. Any disputes arising out of or related to this Agreement shall be resolved through binding arbitration in accordance with the rules of the American Arbitration Association.
+
+**ENTIRE AGREEMENT**
+
+45. **ENTIRE AGREEMENT**
+
+46. This Agreement constitutes the entire understanding between the parties and supersedes all prior negotiations, understandings, and agreements, whether written or oral.
+
+**AMENDMENTS**
+
+47. **AMENDMENTS**
+
+48. This Agreement may not be amended except in writing signed by both parties.
+
+49. **ACCEPTANCE_
+
+50. By signing below, the parties acknowledge that they have read, understand, and agree to be bound by the terms of this Agreement.
+
+**ECO GREEN INDUSTRIES**
+
+51. Signature: _____________________________
+52. Printed Name: _____________________________
+53. Title: _____________________________
+54. Date: _____________________________
+55. Address: 100 Medical Center Drive, New York, USA
+
+**OCT 2024 COMMUNITY ENGAGEMENT INITIATIVE**
+
+56. Signature: _____________________________
+57. Printed Name: _____________________________
+58. Title: _____________________________
+59. Date: _____________________________
+60. Address: 123 Main Street, Anytown, USA

@@ -1,0 +1,136 @@
+**Non-Disclosure and Confidentiality Agreement**
+
+This Non-Disclosure and Confidentiality Agreement (the “Agreement”) is entered into on this 20th day of October, 2024 (the “Effective Date”) by and between:
+
+**Northeastern University** ("University") located at 100 University Drive, Boston, MA 02115, USA; and,
+
+**Pfizer Biopharmaceuticals** ("Pfizer") located at 235 East 42nd Street, New York, NY 10017, USA;
+
+(collectively the “Parties”).
+
+**RECITALS**
+
+WHEREAS, the Parties are interested in collaborating on a joint research project to develop new drugs, which may result in the disclosure of confidential and proprietary information between the Parties; and,
+
+WHEREAS, the Parties desire to ensure that any proprietary information shared during the collaboration remains confidential and is not disclosed to third parties without the prior written consent of the owner of the proprietary information.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises contained herein, the Parties agree as follows:
+
+**CONFIDENTIAL INFORMATION**
+
+The Confidential Information shall include any information disclosed by one Party to the other Party during the course of the research project, including but not limited to:
+
+* Research methods and protocols
+* Test results and data
+* Proprietary formulation and compound information
+* Any other proprietary information related to the research project
+* Other intellectual property, including but not limited to patents, trademarks, copyrights, and trade secrets
+
+The Confidential Information does not include information that:
+
+* Was lawfully known by the receiving Party prior to disclosure by the disclosing Party
+* Was independently developed by the receiving Party without use of the Confidential Information
+* Is freely available to the general public at the time of disclosure
+* Is disclosed by the disclosing Party with the prior written consent of the receiving Party
+* Is subject to a non-disclosure agreement or other confidentiality agreement with a third party
+* Is required to be disclosed by law or regulatory requirement
+
+**USE OF CONFIDENTIAL INFORMATION**
+
+During the course of the research project, the Parties will have access to and learn of each other's Confidential Information. The Parties agree not to disclose, use, or reproduce any Confidential Information for any purpose other than the research project, except as authorized in writing by the owner of the Confidential Information.
+
+The receiving Party may disclose the Confidential Information to its personnel on an as-needed basis, but only if the personnel are informed that the Confidential Information is confidential and have agreed to be bound by the terms of this Agreement.
+
+The Parties agree to take all necessary and reasonable steps to maintain the Confidential Information in confidence, including but not limited to:
+
+* Encrypting Confidential Information
+* Storing Confidential Information in a secure location
+* Limiting access to Confidential Information to authorized personnel
+* Creating and maintaining a record of access and use of Confidential Information
+* Reporting any unauthorized access or use of Confidential Information to the owner of the Confidential Information
+
+**SECURITY RECOMMENDATIONS**
+
+The Parties agree to take all necessary and reasonable steps to maintain the Confidential Information in confidence, including but not limited to:
+
+* Implementing security policies and procedures to protect Confidential Information
+* Conducting regular security audits and risk assessments to identify vulnerabilities
+* Providing regular training and awareness to employees and personnel about the risks and consequences of unauthorized disclosure of Confidential Information
+* Establishing a system for reporting and investigating unauthorized access or use of Confidential Information
+
+**BREACH OF CONFIDENTIALITY**
+
+In the event either Party breaches this Agreement by disclosing Confidential Information to a third party or using Confidential Information for an unauthorized purpose, the breaching Party shall:
+
+* Immediately notify the other Party in writing
+* Take all necessary and reasonable steps to recover the Confidential Information and prevent further unauthorized use
+* Cooperate with the other Party to mitigate any damage caused by the breach
+* Provide compensation to the owner of the Confidential Information for any unauthorized disclosure or use
+
+**DURATION OF AGREEMENT**
+
+This Agreement shall commence on the Effective Date and continue for a period of three years from the date of disclosure of Confidential Information.
+
+Either Party may terminate this Agreement by providing written notice to the other Party, but only if the termination is due to a material breach of this Agreement by the other Party that cannot be cured.
+
+**OWNERSHIP AND TITLE**
+
+Nothing in this Agreement conveys a right, title, interest, or license in the Confidential Information to the receiving Party. The Confidential Information remains the sole property of the disclosing Party.
+
+**RETURN OF CONFIDENTIAL INFORMATION**
+
+Upon termination of this Agreement, the receiving Party must return all tangible materials containing Confidential Information to the disclosing Party, unless otherwise agreed by the Parties.
+
+**REMEDIES**
+
+The Parties agree that Confidential Information is unique in nature, and monetary damages will not adequately remedy any breach of this Agreement. The injured Party is entitled to seek injunctive relief, as well as any other remedies available in law and equity.
+
+**RELATED DOCUMENTS**
+
+This Agreement supersedes any and all prior or contemporaneous oral or written agreements, understandings, or communications between the Parties.
+
+**WARNING**
+
+Either Party may terminate this Agreement at any time by providing written notice to the other Party.
+
+**WARRANTIES AND REPRESENTATIONS**
+
+Each Party represents and warrants that it has the right to disclose the Confidential Information, and that the Confidential Information does not infringe on the rights of any third party.
+
+**GOVERNING LAW**
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Massachusetts.
+
+**DISPUTE RESOLUTION**
+
+Any dispute arising under or in connection with this Agreement shall be resolved through arbitration in accordance with the rules of the American Arbitration Association.
+
+**ENTIRE AGREEMENT**
+
+This Agreement constitutes the entire agreement between the Parties and supersedes all prior or contemporaneous oral or written agreements, understandings, or communications.
+
+**AMENDMENTS**
+
+This Agreement may not be amended or modified except in writing signed by both Parties.
+
+By signing below, the Parties acknowledge that they have read, understand, and agree to comply with the terms and conditions of this Agreement.
+
+**University**
+
+Name: Dr. John Doe
+
+Title: Professor of Pharmacology
+
+Signature: _____________________________
+
+Date: October 20, 2024
+
+**Pfizer Biopharmaceuticals**
+
+Name: Mr. Michael Smith
+
+Title: Director of Research
+
+Signature: _____________________________
+
+Date: October 20, 2024
